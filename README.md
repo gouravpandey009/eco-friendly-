@@ -1,4 +1,4 @@
-# 🌍 EcoExchange: Sustainable Solutions 🌱
+# 🌍 EcoExchange: Exchange, Evolve, Sustain 🌱
 
 Welcome to the **EcoExchange** project! This is a platform that connects individuals and businesses to exchange eco-friendly solutions and resources.
 
