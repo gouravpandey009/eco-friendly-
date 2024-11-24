@@ -15,4 +15,4 @@ npm install
 npm start
 
 
-[EcoExchange.pptx](https://github.com/user-attachments/files/17894401/EcoExchange.pptx)
+https://github.com/user-attachments/files/17894401/EcoExchange.pptx
