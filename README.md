@@ -13,3 +13,6 @@ git clone https://github.com/gouravpandey009/eco.git
 cd ecoexchange_frontend
 npm install
 npm start
+
+
+[EcoExchange.pptx](https://github.com/user-attachments/files/17894401/EcoExchange.pptx)
