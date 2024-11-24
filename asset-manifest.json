@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gouravpandey009/eco-friendly-.git/static/css/main.c1df55e4.css",
-    "main.js": "/gouravpandey009/eco-friendly-.git/static/js/main.c52f363f.js",
-    "static/js/453.0d1d24ac.chunk.js": "/gouravpandey009/eco-friendly-.git/static/js/453.0d1d24ac.chunk.js",
-    "static/media/background-video.mp4": "/gouravpandey009/eco-friendly-.git/static/media/background-video.35bb7163fdc37e276124.mp4",
-    "static/media/eco-background.mp4": "/gouravpandey009/eco-friendly-.git/static/media/eco-background.7a766066dec9797c8b65.mp4",
-    "index.html": "/gouravpandey009/eco-friendly-.git/index.html",
-    "main.c1df55e4.css.map": "/gouravpandey009/eco-friendly-.git/static/css/main.c1df55e4.css.map",
-    "main.c52f363f.js.map": "/gouravpandey009/eco-friendly-.git/static/js/main.c52f363f.js.map",
-    "453.0d1d24ac.chunk.js.map": "/gouravpandey009/eco-friendly-.git/static/js/453.0d1d24ac.chunk.js.map"
+    "main.css": "/eco-friendly-/static/css/main.c1df55e4.css",
+    "main.js": "/eco-friendly-/static/js/main.8c83bee3.js",
+    "static/js/453.0d1d24ac.chunk.js": "/eco-friendly-/static/js/453.0d1d24ac.chunk.js",
+    "static/media/background-video.mp4": "/eco-friendly-/static/media/background-video.35bb7163fdc37e276124.mp4",
+    "static/media/eco-background.mp4": "/eco-friendly-/static/media/eco-background.7a766066dec9797c8b65.mp4",
+    "index.html": "/eco-friendly-/index.html",
+    "main.c1df55e4.css.map": "/eco-friendly-/static/css/main.c1df55e4.css.map",
+    "main.8c83bee3.js.map": "/eco-friendly-/static/js/main.8c83bee3.js.map",
+    "453.0d1d24ac.chunk.js.map": "/eco-friendly-/static/js/453.0d1d24ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1df55e4.css",
-    "static/js/main.c52f363f.js"
+    "static/js/main.8c83bee3.js"
   ]
 }
